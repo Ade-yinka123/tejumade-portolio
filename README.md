@@ -33,5 +33,5 @@ Identify customer segments and service factors associated with churn and recomme
 5. Bundle Tech Support and Online Security.
 6. Monitor high-risk segments monthly.
 
-  ### 📫 Connect With Me
+### 📫 Connect With Me
 LinkedIn: [https://www.linkedin.com/posts/tejumade-adeyinka-a2630331a_dataanalytics-customerchurn-excel-share-7491882503708798976-nGjp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDY3f4BZZ_hjl1L-Ck-9lkMwjtuUfbn00w]
