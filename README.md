@@ -1,6 +1,4 @@
-# tejumade-portolio
-
- # ABC Communications Customer Churn Analysis
+# ABC Communications Customer Churn Analysis
 
 ## Project Overview
 Customer churn analysis for ABC Communications Ltd, completed as a business analytics project with AnalystLab Africa Consulting.
@@ -34,11 +32,6 @@ Identify customer segments and service factors associated with churn and recomme
 4. Investigate fiber-optic churn drivers.
 5. Bundle Tech Support and Online Security.
 6. Monitor high-risk segments monthly.
-
-## Deliverables
-- Excel analysis workbook
-- Business analytics report
-- PowerPoint presentation
 
   ### 📫 Connect With Me
 LinkedIn: [https://www.linkedin.com/posts/tejumade-adeyinka-a2630331a_dataanalytics-customerchurn-excel-share-7491882503708798976-nGjp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDY3f4BZZ_hjl1L-Ck-9lkMwjtuUfbn00w]
