@@ -1,5 +1,5 @@
 # tejumade-portolio
-Data analytics
+
  Hi, I'm Tejumade Adeyinka 👋
 
 ## Data Analyst
