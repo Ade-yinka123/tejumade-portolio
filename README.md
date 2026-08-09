@@ -147,6 +147,6 @@ who are at high risk of leaving.
 ## 👤 About Me
 Built as part of the AnalystLab Africa Data Analytics Internship (Week 1).
 
-Tejumade Adeyinka — Computer science graduate, a data analyst. www.linkedin.com/in/tejumade-adeyinka-a2630331a
+Tejumade Adeyinka — Computer science graduate, a data analyst. Linkedin [www.linkedin.com/in/tejumade-adeyinka-a2630331a]
 
 
