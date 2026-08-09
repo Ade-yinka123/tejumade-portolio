@@ -24,11 +24,17 @@ The business wants to understand:
 ## 🎯 Objectives
 
 •	Understand the characteristics of the customer base.
+
 •	Identify customer segments with the highest churn.
+
 •	Assess whether contract type influences retention.
+
 •	Determine whether tenure is associated with loyalty.
+
 •	Identify services associated with higher or lower churn.
+
 •	Compare churn across payment methods.
+
 •	Translate findings into practical customer-retention actions
 
 
